@@ -1,1 +1,13 @@
 1) How to Import Bookmarks in Mozilla FireFox: https://www.youtube.com/watch?v=OEATrOdnlu4
+
+2) Add “New Document” back to the right-click menu in Ubuntu 18.04:
+	Open CMD(Ctrl+Alt+T) And Pest :$ touch ~/Templates/"Untitled Document"
+
+3) Facebbok hack: https://www.hacking-tutorial.com/hacking-tutorial/5-steps-how-to-hack-facebook-account-password/#sthash.etXrkBbr.dpbs
+
+4) Sublime Text All Package Control: 
+**) install controp package: https://www.youtube.com/watch?v=zVLJfrIwEP8&t=137s
+**) install usefull packages: https://www.youtube.com/watch?v=oHmPrjSzmwU
+
+5) Install and Uninstall lampp Server in Ubuntu: https://vitux.com/how-to-install-xampp-on-your-ubuntu-18-04-lts-system/
+   
