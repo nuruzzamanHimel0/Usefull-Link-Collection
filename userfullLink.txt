@@ -10,4 +10,11 @@
 **) install usefull packages: https://www.youtube.com/watch?v=oHmPrjSzmwU
 
 5) Install and Uninstall lampp Server in Ubuntu: https://vitux.com/how-to-install-xampp-on-your-ubuntu-18-04-lts-system/
+
+6)How to create a Windows 10 bootable USB from Ubuntu :https://www.youtube.com/watch?v=rHFR-L7CtOY
+WoeUSB Install:$ sudo add-apt-repository ppa:nilarimogard/webupd8
+$ sudo apt update
+$ sudo apt install woeusb
+
+7) How to format a USB Flash Drive in Ubuntu 18.04:: https://www.youtube.com/watch?v=0BMDwSHxQwI
    
